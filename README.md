@@ -13,4 +13,4 @@ here is octocat:
 
 
 BOM:
-1 Soldering iron kit, total 11.46, from walmart
+<img width="1514" height="82" alt="image" src="https://github.com/user-attachments/assets/7d6d5267-db66-4c56-a825-fb16649f14dc" />
