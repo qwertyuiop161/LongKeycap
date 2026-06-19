@@ -13,4 +13,4 @@ here is octocat:
 
 
 BOM:
-<img width="1514" height="82" alt="image" src="https://github.com/user-attachments/assets/7d6d5267-db66-4c56-a825-fb16649f14dc" />
+<img width="548" height="115" alt="image" src="https://github.com/user-attachments/assets/80efc66b-21e1-4ef1-8009-2759ca82dc9c" />
